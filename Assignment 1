@@ -1,0 +1,7 @@
+# biggest of two numbers 
+int(input('enter a number'))
+int(input('enter b number'))
+if(a>b):
+ print('the biggest number is',)
+else:
+ print('the biggest number is',b)
