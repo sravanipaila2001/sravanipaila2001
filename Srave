@@ -1,0 +1,7 @@
+#number of digits 
+n=int(input ('enter the no:'))
+i=0 
+while(n>0): 
+i=i+1 
+n=n//10 
+print('the no of digits in the no are:',i)
