@@ -1,0 +1,8 @@
+#sum of the factors 
+f=1  
+sum=0
+n=int(input('enter number')) 
+  for i in range(1,n+1): 
+      f=f*i 
+        sum=sum+f 
+print('sum is:',sum)
